@@ -1,2 +1,1 @@
-# Host365 Frontend
-React channel manager UI
+IyBIb3N0MzY1IEZyb250ZW5kCg==
